@@ -21,7 +21,8 @@ We will continue to improve our code from where we left previously. We will work
 Till now, we were only working with individual components. Now is the correct time to connect them.
 Here is a demo of how things should work:
 
-![](https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/project-react-final-working.gif)
+![](https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/project-react-routes-working.gif)
+
 
 So, as you can see above -> 
 If I click on play button, I should be directed to the quiz game, and if I click on `finish` button, I should be directed to result page.
@@ -39,9 +40,8 @@ So, by now, we are only able to move from one question to the other. Now, your t
 
 Once you click on the `finish` button (finish button was not added previously, you need to add a new button -> which will redirect the user to the result page), you should be able to reach to the result page, which displays the result for you, as shown below:
 
-https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/project-react-routes-working.gif
+![](https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/project-react-final-working.gif)
 
 
 Happy Coding Kalvium ❤️!
 
-git remote add origin https://github.com/Kalvium-Program/project-react-quiz-two-solution.git
