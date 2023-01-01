@@ -43,5 +43,5 @@ Once you click on the `finish` button (finish button was not added previously, y
 ![](https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/project-react-final-working.gif)
 
 
-Happy Coding Kalvium ❤️!
+Happy Coding ❤️!
 
